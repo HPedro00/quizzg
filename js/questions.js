@@ -4,7 +4,6 @@ let questions = [
 {
 numb: 1,
 question: "que dia aconteceu o atentado as torres gemeas?"
-Nobel em áreas científicas diferentes?",
 answer: "11/9",
 options: [
 "11/9",
