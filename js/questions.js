@@ -3,22 +3,22 @@ answers
 let questions = [
 {
 numb: 1,
-question: "Quem foi a única pessoa na história a receber o Prêmio
+question: "que dia aconteceu o atentado as torres gemeas?"
 Nobel em áreas científicas diferentes?",
-answer: "Marie Curiee",
+answer: "11/9",
 options: [
-"Albert Einstein",
-"Marie Curiee",
-"Stephen Hawking",
-"Linus Pauling"
+"11/9",
+"11/8",
+"7/9",
+"7/8"
 ]
 },
 {
 numb: 2,
-question: "Qual o país mais novo do mundo?",
-answer: "Sudão do Sul",
+question: "Qual o menor país do mundo?",
+answer: "Vaticano",
 options: [
-"Timor Lestet",
+"Vaticano",
 "Montenegro",
 "Sudão do Sul",
 "Kosovo"
@@ -26,39 +26,39 @@ options: [
 },
 {
 numb: 3,
-question: "Qual o nome do evento astronômico responsável pelo dia
-mais longo do ano?",
-answer: "Solstício de verão",
+question: "
+mais longo do ano?"Qual o país mais grande do mundo?"
+answer: "Russia",
 options: [
-"Equinócio de outono",
-"Solstício de inverno",
-"Solstício de verão",
-"Solstício de outono"
+"Brasil",
+"China",
+"India",
+"Russia"
 ]
 },
 {
 numb: 4,
-question: "Quantos pares de costelas um ser humano, normalmente,
+question: "qual a capital da Russia?"
 possui?",
-answer: "12",
+answer: Moscou",
 options: [
-"12",
-"11",
-"14",
-"13"
+"Moscou",
+"Brasilia",
+"Lisboa",
+"Toquio"
 ]
 
 },
 {
 numb: 5,
-question: "Quais planetas do sistema solar realizam seu movimento de
+question: "Qual o maior planeta do sistema solar?"
 rotação em sentido horário?",
-answer: "Vênus e Urano",
+answer: "jupter",
 options: [
-"Saturno e Júpiter",
-"Vênus e Urano",
-"Terra e Marte",
-"Mercúrio e Saturno"
+"Saturno ",
+"Vênus",
+"Terra ",
+"jupter"
 ]
 },
 // you can uncomment the below codes and make duplicate as more as you
